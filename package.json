@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list-com-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto para ensinar nodeJS MVC no Youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Paulo Alba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
